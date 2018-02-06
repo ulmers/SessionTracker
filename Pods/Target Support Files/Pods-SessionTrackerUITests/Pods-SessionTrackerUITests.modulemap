@@ -1,0 +1,6 @@
+framework module Pods_SessionTrackerUITests {
+  umbrella header "Pods-SessionTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
